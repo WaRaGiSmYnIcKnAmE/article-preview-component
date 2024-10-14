@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
--   [Solution URL]()
--   [Live Site URL]()
+-   [Solution URL](https://www.frontendmentor.io/solutions/article-preview-component-lRBBxfDC44)
+-   [Live Site URL](https://waragismynickname.github.io/article-preview-component/)
 
 ## My process
 
@@ -46,7 +46,7 @@ Users should be able to:
 
 ### What I learned
 
-I learned how to make a block in the form of a cloud with content
+I learned how to make a block in the form of a cloud with content.
 
 ### Continued development
 
